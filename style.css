@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+    background-color:darkgoldenrod;
+}
+
+img {
+  width: 300px;
+  height: 270px;
+  padding: 5px;
+  border:solid;
+border-color:goldenrod;
+  border-radius:5%;
+}
+.section {
+  text-align: center;
+  background-color: gold;
+}
+h1 {
+  font-size: 50px;
+}
+#mainimg {
+  width: 700px;
+  height: 350px;
+  padding: 5px;
+  border: solid;
+  border-radius: 5%;
+}
+h2 {
+  font-size: 35px;
+}
